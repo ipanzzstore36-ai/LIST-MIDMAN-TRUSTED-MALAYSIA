@@ -87,7 +87,8 @@ body{
 
 <div class="card">
   <div class="name">MIDMAN IPANZZ <span class="verified">VERIFIED</span></div>
-  <p>WhatsApp: 01118524137</p>
+  <p>WhatsApp: 01118524137
+</p>
   <div class="status">Status: Paid / Trusted Midman</div>
   <a class="btn" href="https://wa.me/601118524137">Hubungi WhatsApp</a>
 </div>
